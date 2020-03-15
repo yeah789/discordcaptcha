@@ -1,5 +1,5 @@
 {
-  "token": "Bot Token",
+  "token": "Process.envToken",
   "prefix": "$",
   "deleteMessages": true,
   "presence": {
